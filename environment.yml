@@ -1,0 +1,6 @@
+name: spike-field-coherence-for-lecture
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  
