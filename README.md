@@ -5,3 +5,5 @@
 Access this analysis Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/Mark-Kramer/MIT-Spike-Field-Coherence/master?filepath=spike-field-coherence-for-lecture.ipynb
+
+Lecture slides are [here](Spike-Field-Coherence.pdf).
